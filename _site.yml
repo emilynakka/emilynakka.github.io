@@ -1,0 +1,8 @@
+name: "Emily Nakkawita"
+output_dir: "."
+navbar:
+  title: "Emily Nakkawita"
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

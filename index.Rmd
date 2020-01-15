@@ -1,0 +1,14 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/emilynakkawita.jpg" style="width:35%; margin-left: 25px" align="right">
+
+# Hi there, I'm Emily Nakkawita.
+
+#### I am interested in understanding the factors that lead to effective goal pursuit, in terms of both achievement and well-being. As a PhD student, I study how motivation and self-regulation in the pursuit of personal goals are affected by individual differences in the strength of primary motives for value, truth, and control, as well as our beliefs about how these motives should be prioritized.
+
+For nearly a decade, I examined what motivates people as a marketer. I also explored this question on a practical level through volunteering and coaching work by partnering with individuals in pursuit of their own goals. In January 2017, I entered Columbia University’s post-baccalaureate program as the first step in the pursuit of a career in psychological research examining this topic, and in August 2018, I joined [Columbia’s PhD program in psychology](https://psychology.columbia.edu/content/graduate-program-0).
+
+I am currently a rising second-year PhD student and Graduate Research Fellow working in the [Higgins Lab](http://higginsweb.psych.columbia.edu/) at Columbia University, where I conduct research on topics including regulatory focus, regulatory mode, motivational effectiveness, and motivational harmony.
