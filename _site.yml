@@ -1,8 +1,8 @@
 name: "Emily Nakkawita"
 output_dir: "."
-navbar:
-  title: "Emily Nakkawita"
 output:
   html_document:
     theme: paper
-    css: 'styles.css'
+    css:
+      - 'styles.css'
+      - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css

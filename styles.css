@@ -10,6 +10,11 @@
   -webkit-touch-callout: none;
 }
 
+.navbar {
+  box-shadow: 0 1px 3px rgba(0,0,0,.11);
+  height:45px;
+}
+
 h1 {
   color: #438bff;
   font-size: 36px;
@@ -47,4 +52,23 @@ a, p a {
 
 a:hover {
   color: #54474b;
+  text-decoration: none;
+}
+
+.fa {
+  color: #54474b;
+  transition: all .3s ease-in-out;
+}
+
+.fa:hover {
+  color: #438bff;
+}
+
+.ai {
+  color: #54474b;
+  transition: all .3s ease-in-out;
+}
+
+.ai:hover {
+  color: #438bff;
 }
