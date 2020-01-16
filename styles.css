@@ -122,6 +122,20 @@ a:hover {
   text-decoration: none;
 }
 
+.imgright {
+  float: right;
+  width: 35%;
+  min-width: 300px;
+}
+
+@media only screen and (max-width: 767px) {
+  .imgright {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
 .fa {
   color: #54474b;
   transition: all .3s ease-in-out;
