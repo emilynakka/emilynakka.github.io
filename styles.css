@@ -20,6 +20,7 @@
   height:70px;
   margin-top:-22px;
   margin-left:-15px;
+  max-width: none;
 }
 
 .navbar-brand {
