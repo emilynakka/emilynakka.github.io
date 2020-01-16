@@ -3,6 +3,9 @@ output_dir: "."
 output:
   html_document:
     theme: paper
+    include:
+      in_header: favicon.html
+      after_body: _footer.html
     css:
       - 'styles.css'
       - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
