@@ -13,7 +13,31 @@
 
 .navbar {
   box-shadow: 0 1px 3px rgba(0,0,0,.11);
-  height:45px;
+  height: 45px;
+}
+
+.navbar a img {
+  height:70px;
+  margin-top:-22px;
+  margin-left:-15px;
+}
+
+.navbar-brand {
+  float: left;
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar a img {
+    display: block;
+    margin: -22px auto auto auto;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .navbar-brand {
+    float: none;
+    display: block;
+  }
 }
 
 .myfooter {
