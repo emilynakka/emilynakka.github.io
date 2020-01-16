@@ -4,7 +4,7 @@ title: "Emily Nakkawita | Psychology PhD Student at Columbia University"
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<img src="images/emilynakkawita.jpg" style="width:35%; margin-left: 25px" align="right">
+<img src="images/emilynakkawita.jpg" style="min-width: 320px; width:35%; margin-left: 25px" align="right">
 
 # Hi there, I'm Emily Nakkawita.
 
