@@ -86,3 +86,7 @@ a:hover {
 .title {
   display: none;
 }
+
+.toc-ignore {
+  display: none;
+}
