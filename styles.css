@@ -73,7 +73,7 @@
   }
 }
 
-.myfooter {
+.footer {
   background-color: #262626;
   color: #ffffff;
   font-size: 12px;
@@ -81,6 +81,11 @@
   height: 35px;
   text-align: center;
   vertical-align: middle;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
 }
 
 h1 {
