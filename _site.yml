@@ -4,7 +4,9 @@ output:
   html_document:
     theme: paper
     include:
-      in_header: favicon.html
+      in_header: 
+        - _GAscript.html
+        - favicon.html
       after_body: _footer.html
     css:
       - 'styles.css'
