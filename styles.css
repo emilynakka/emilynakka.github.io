@@ -27,27 +27,6 @@
   float: left;
 }
 
-.collapsing {
-  position:relative;
-  height:0;
-  background-color: #ffffff;
-  overflow:hidden;
-  -webkit-transition-timing-function:ease;
-  -o-transition-timing-function:ease;
-  transition-timing-function:ease;
-  -webkit-transition-duration:.35s;
-  -o-transition-duration:.35s;
-  transition-duration:.35s;
-  -webkit-transition-property:height,visibility;
-  -o-transition-property:height,visibility;
-  transition-property:height,visibility
-}
-
-.collapsing li {
-  float:left;
-  padding-left: 5px;
-}
-
 .in {
   background-color: #ffffff;
   box-shadow: 0 1px 3px rgba(0,0,0,.11);
