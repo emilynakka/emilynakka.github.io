@@ -22,6 +22,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -35,6 +37,15 @@
 </script>
 <!DOCTYPE html>
 <link rel="shortcut icon" href="images/favicon.png">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -291,7 +302,7 @@ $(document).ready(function () {
         <li><a href="PageB.html">Page B</a></li>
       </ul>-->
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="https://emilynakka.com/docs/EmilyNakkawita_CV_201021.pdf" target="_blank" style="padding-left:5px;padding-right:5px;" title="CV: Emily Nakkawita"><i class="ai ai-cv-square ai-2x"></i></a></li>
+        <li><a href="https://emilynakka.com/docs/EmilyNakkawita_CV_210128.pdf" target="_blank" style="padding-left:5px;padding-right:5px;" title="CV: Emily Nakkawita"><i class="ai ai-cv-square ai-2x"></i></a></li>
         <li><a href="https://scholar.google.com/citations?user=z9ni1awAAAAJ&hl=en" target="_blank" style="padding-left:5px;padding-right:5px;" title="Google Scholar: Emily Nakkawita"><i class="ai ai-google-scholar-square ai-2x"></i></a></li>
         <li><a href="https://www.researchgate.net/profile/Emily_Nakkawita" target="_blank" style="padding-left:5px;padding-right:5px;" title="ResearchGate: Emily Nakkawita"><i class="ai ai-researchgate-square ai-2x"></i></a></li>
         <li><a href="https://osf.io/4q7ka/" target="_blank" style="padding-left:5px;padding-right:5px;" title="OSF: Emily Nakkawita"><i class="ai ai-osf-square ai-2x"></i></a></li>
@@ -334,7 +345,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
