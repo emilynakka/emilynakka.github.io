@@ -109,6 +109,7 @@ a:hover {
 
 .imgright {
   float: right;
+  padding-top: 25px;
   width: 35%;
   min-width: 300px;
 }
