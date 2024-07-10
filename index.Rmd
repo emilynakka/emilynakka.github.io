@@ -1,13 +1,13 @@
 ---
-title: "Emily Nakkawita | Psychology PhD Student at Columbia University"
+title: "Emily Nakkawita | Psychology PhD Candidate at Columbia University"
 ---
 
 <img src="images/emilynakkawita.jpg" class = "imgright">
 
 # Hi there, I'm Emily Nakkawita.
 
-#### I am interested in understanding the factors that lead to effective goal pursuit processes, with effectiveness defined in terms of both achievement and well-being. As a PhD student, I study the motivational underpinnings of different kinds of goal pursuit activities. In particular, I examine how the goal pursuit process is affected by individual differences in the strength of fundamental motives for truth and control, combined with a focus on gains and non-gains (promotion value) versus non-losses and losses (prevention value).
+#### I am a quantitative researcher and Psychology PhD candidate at Columbia University. Prior to pursuing my doctoral studies, I spent nearly a decade as a marketing strategist and engagement director. Across the last 15 years, I have led complex, collaborative projects in settings ranging from Ivy League labs to Fortune 500 companies.
 
-For nearly a decade, I examined what motivates people as a marketer. I also explored this question on a practical level through volunteering and coaching work by partnering with individuals in pursuit of their own goals. In January 2017, I entered Columbia University’s post-baccalaureate program as the first step in the pursuit of a career in psychological research examining this topic, and in August 2018, I joined [Columbia’s PhD program in psychology](https://psychology.columbia.edu/content/graduate-program-0).
+I have expertise in all stages of the research process, from generating hypotheses and designing studies to collecting, analyzing, and visualizing data. Additionally, in my corporate career, I gained extensive experience in synthesizing the results of consumer research and campaign performance analyses into clear, actionable insights that can be understood and put to use by a wide range of stakeholders.
 
-I am currently a third-year PhD student and Graduate Research Fellow working in the [Higgins Lab](http://higginsweb.psych.columbia.edu/) at Columbia University, where I conduct research on topics including motivational effectiveness, regulatory focus, regulatory mode, and motivational harmony.
+The thread that connects the two phases of my career is my deep interest in motivation science. As a marketer, consumer research illuminated my understanding of our target consumers' motives and needs. In my subsequent academic research, I have investigated the fundamental motivational forces that drive people's thinking and behavior, establishing how these motives work together to drive distinct types of goal pursuit activities. In doing so, I have examined how individuals' beliefs about the importance of these activities, their enjoyment of them, and their behavioral choices are influenced by the relative strength of fundamental motives for control and truth, combined with a focus on gains and non-gains (promotion value) versus non-losses and losses (prevention value).
